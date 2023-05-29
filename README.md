@@ -1,4 +1,4 @@
-# Image-to-Text
+# Image-to-Text (HINDI)
 In this code we extract the text from the image.
 # Optical Character Recognition (OCR) is a technology that enables the conversion of printed or handwritten text into machine-readable text.
 !apt-get install tesseract-ocr-hin
